@@ -1,0 +1,9 @@
+groq
+openai
+PyPDF2
+pdfplumber
+langchain
+arxiv
+fastapi
+uvicorn
+python-dotenv
