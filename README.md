@@ -68,7 +68,7 @@ print(result)
 - LLM responses are optimized for enterprise use (context, concise answers).
 
 ## Demo
-- See `demo_video.mp4` (to be added) for a walkthrough of the system, including PDF upload, Q&A, and Arxiv lookup.
+- See `demo_video.mp4`(https://drive.google.com/file/d/1QNVIbN8Qhp905DcwlhdXRB2aCx2GU1fE/view?usp=sharing) for a walkthrough of the system, including PDF upload, Q&A, and Arxiv lookup.
 
 ## License
 MIT License
